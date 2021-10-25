@@ -1,14 +1,15 @@
 ### Hi there 👋, I'm Facundo!
 
-- 🌱 I have knowledge, skills in:
+🌱 I have knowledge, skills in:
 
 JavaScript | CSS | HTML | Git | Ajax | Webpack | React | Redux | Node.js | Express | Sql | Postgres
 | Metodologías Agiles (Scrum) | JSX | ES6
 
-and still learining everyday to become a full stack developer.
+and I'm still learining everyday new stuff to become a full stack developer.
 
-- 📫 Connect with Me:
+### 📫 Connect with Me:
+
     email: facundopellicer4@gmail.com
     linkedin: https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/
 
-- ⚡ Fun fact: 
+<!-- - ⚡ Fun fact:  -->
