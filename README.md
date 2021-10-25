@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Facundo!
 
-<!--
-**Facupelli/Facupelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I have knowledge, skills in:
 
-Here are some ideas to get you started:
+JavaScript | CSS | HTML | Git | Ajax | Webpack | React | Redux | Node.js | Express | Sql | Postgres
+| Metodologías Agiles (Scrum) | JSX | ES6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and still learining everyday to become a full stack developer.
+
+- 📫 Connect with Me:
+    email: facundopellicer4@gmail.com
+    linkedin: https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/
+
+- ⚡ Fun fact: 
