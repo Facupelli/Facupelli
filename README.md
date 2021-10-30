@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Facundo!
 
-🌱 I have knowledge, skills in:
+🌱 I have:
 
 JavaScript | CSS | HTML | Git | Ajax | Webpack | React | Redux | Node.js | Express | Sql | Postgres
-| Metodologías Agiles (Scrum) | JSX | ES6
+| Metodologías Agiles (Scrum) | JSX | ES6 | Material UI
 
-and I'm still learining new stuff everyday to become a full stack developer.
+skills and I'm still learining new stuff everyday to become a better full stack developer.
 
 ### 📫 Connect with Me:
 
