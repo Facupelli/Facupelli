@@ -7,6 +7,8 @@ JavaScript | CSS | HTML | Git | Ajax | Webpack | React | Redux | Node.js | Expre
 
 skills and I'm still learining new stuff everyday to become a better full stack developer.
 
+portfolio: https://facupelli-portfolio.vercel.app/;
+
 ### 📫 Connect with Me:
 
     email: facundopellicer4@gmail.com
