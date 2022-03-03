@@ -16,27 +16,30 @@ I am learning new stuff everyday to become a great full stack developer.
 
 ### Portfolio: facupelli-portfolio.vercel.app
 
-### 💼 Projects: 
+### 💼 Projects:
 
-## WebService 
+## WebService
 
 ### Services e-commerce
+
 <img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1637785254/webservice_1_hs8uig.png" alt="1">
 
-
 ## Cuyo Brewers Friends
+
 ### Recipe builder, post, comment and rate recipes
+
 <img src='./Media/cuyo2022.png' alt='cuyo'>
 
 ## Dog APP
+
 ### API thedogapi.com
+
 <img src='https://res.cloudinary.com/dzjz8pe0y/image/upload/v1637709264/landing_pidogs_vqevm5.png' alt='cuyo'>
 
 <br/>
 
-### 📫 Connect with Me:
+# 📫 Connect with Me:
 
-    email: facundopellicer4@gmail.com
-    linkedin: https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/
-    portfolio: facupelli-portfolio.vercel.app
-
+Email: facundopellicer4@gmail.com
+Linkedin:<a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/">Facundo Pellicer</a>
+Portfolio: <a href="https://facupelli-portfolio.vercel.app/">Facundo Pellicer</a>
