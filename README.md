@@ -14,9 +14,9 @@ JavaScript | CSS | HTML | Git | React | Redux | Node.js | Express | SQL | Postgr
 
 I am learning new stuff everyday to become a great full stack developer.
 
-## Portfolio: facupelli-portfolio.vercel.app
+### Portfolio: facupelli-portfolio.vercel.app
 
-## 💼 Projects: 
+### 💼 Projects: 
 
 ## WebService 
 
@@ -26,8 +26,11 @@ I am learning new stuff everyday to become a great full stack developer.
 
 ## Cuyo Brewers Friends
 ### Recipe builder, post, comment and rate recipes
-<img src='./Media/cuyoNew.png' alt='cuyo'>
+<img src='./Media/cuyo2022.png' alt='cuyo'>
 
+## Dog APP
+### API thedogapi.com
+<img src='https://res.cloudinary.com/dzjz8pe0y/image/upload/v1637709264/landing_pidogs_vqevm5.png' alt='cuyo'>
 
 ### 📫 Connect with Me:
 
