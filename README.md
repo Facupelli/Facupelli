@@ -1,15 +1,25 @@
 ### Hi there 👋, I'm Facundo!
 
-🌱 I have knowledge, skills in:
+## Full Stack Developer
 
-JavaScript | CSS | HTML | Git | Ajax | Webpack | React | Redux | Node.js | Express | Sql | Postgres
-| Metodologías Agiles (Scrum) | JSX | ES6
+- I am very curious
+- Always willing to learn more
+- I like challenges and solving problems
+- I don't like giving up
 
-and I'm still learining new stuff everyday to become a full stack developer.
+🌱 Skills:
+
+JavaScript | CSS | HTML | Git | React | Redux | Node.js | Express | SQL | PostgreSQL
+| Metodologías Agiles (Scrum) | Typescript | MongoDB
+
+I am learning new stuff everyday to become a great full stack developer.
+
+## Portfolio: facupelli-portfolio.vercel.app/
+
+### 💼 Projects: See Portfolio or pinned repositories
 
 ### 📫 Connect with Me:
 
     email: facundopellicer4@gmail.com
     linkedin: https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/
 
-<!-- - ⚡ Fun fact:  -->
