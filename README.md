@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Facundo!
+### Hi there 👋, I'm Facundo!
 
 # Full Stack Developer
 
