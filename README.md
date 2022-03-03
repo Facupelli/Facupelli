@@ -45,6 +45,5 @@ I am learning new stuff everyday to become a great full stack developer.
     Email: facundopellicer4@gmail.com
     Linkedin: Facundo Pellicer
 
-<a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/"><h4>My Linkedin Profile</h4></a>
-<br/>
+<a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/"><h3>My Linkedin Profile</h3></a>
 <a href="https://facupelli-portfolio.vercel.app/">My Portfolio</a>
