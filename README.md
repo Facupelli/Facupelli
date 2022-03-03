@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Facundo!
 
+<<<<<<< HEAD
 ## Full Stack Developer
 
 - I am very curious
@@ -17,6 +18,16 @@ I am learning new stuff everyday to become a great full stack developer.
 ## Portfolio: facupelli-portfolio.vercel.app/
 
 ### 💼 Projects: See Portfolio or pinned repositories
+=======
+🌱 I have:
+
+JavaScript | CSS | HTML | Git | Ajax | Webpack | React | Redux | Node.js | Express | Sql | Postgres
+| Metodologías Agiles (Scrum) | JSX | ES6 | Material UI
+
+skills and I'm still learining new stuff everyday to become a better full stack developer.
+
+portfolio: https://facupelli-portfolio.vercel.app/;
+>>>>>>> 0828253d4b62a09e79d300509be7c831f351c118
 
 ### 📫 Connect with Me:
 
