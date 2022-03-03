@@ -32,8 +32,11 @@ I am learning new stuff everyday to become a great full stack developer.
 ### API thedogapi.com
 <img src='https://res.cloudinary.com/dzjz8pe0y/image/upload/v1637709264/landing_pidogs_vqevm5.png' alt='cuyo'>
 
+<br/>
+
 ### 📫 Connect with Me:
 
     email: facundopellicer4@gmail.com
     linkedin: https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/
+    portfolio: facupelli-portfolio.vercel.app
 
