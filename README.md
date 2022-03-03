@@ -23,12 +23,14 @@ I am learning new stuff everyday to become a great full stack developer.
 ### Services e-commerce
 
 <img src="https://res.cloudinary.com/dzjz8pe0y/image/upload/v1637785254/webservice_1_hs8uig.png" alt="1">
+<br/>
 
 ## Cuyo Brewers Friends
 
 ### Recipe builder, post, comment and rate recipes
 
 <img src='./Media/cuyo2022.png' alt='cuyo'>
+<br/>
 
 ## Dog APP
 
@@ -41,8 +43,8 @@ I am learning new stuff everyday to become a great full stack developer.
 # 📫 Connect with Me:
 
     Email: facundopellicer4@gmail.com
+    Linkedin: Facundo Pellicer
 
-<br/>
 <a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/">My linkedin profile</a>
 <br/>
 <a href="https://facupelli-portfolio.vercel.app/">Facundo Pellicer Portfolio</a>
