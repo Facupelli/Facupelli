@@ -40,6 +40,6 @@ I am learning new stuff everyday to become a great full stack developer.
 
 # 📫 Connect with Me:
 
-Email: facundopellicer4@gmail.com
-Linkedin:<a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/">Facundo Pellicer</a>
-Portfolio: <a href="https://facupelli-portfolio.vercel.app/">Facundo Pellicer</a>
+    Email: facundopellicer4@gmail.com
+    Linkedin:<a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/">Facundo Pellicer</a>
+    Portfolio: <a href="https://facupelli-portfolio.vercel.app/">Facundo Pellicer</a>
