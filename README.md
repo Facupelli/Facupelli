@@ -2,9 +2,7 @@
 
 # Full Stack Developer
 
-- I am very curious
-- Always willing to learn more
-- I like challenges and solving problems
+- I want to understand why things were designed this way, for whom, what works well enough, and what needs to be fixed.
 
 🌱 Skills:
 
