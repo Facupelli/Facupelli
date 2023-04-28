@@ -13,5 +13,5 @@ JavaScript | Typescript | Next.js | React | Redux | Node.js | Express | Prisma |
     Email: facundopellicer4@gmail.com
     Linkedin: Facundo Pellicer
 
-<h3><a href="[https://portfolio2-facupelli.vercel.app/](https://facundopellicer-facupelli.vercel.app/)">My Portfolio</a></h3>
-<h3><a href="https://www.linkedin.com/in/facundo-pellicer-full-stack-developer/">My Linkedin Profile</a></h3>
+<h3><a href="https://facundopellicer-facupelli.vercel.app" target="_blank" >My Portfolio</a></h3>
+<h3><a href="https://linkedin.com/in/facundopellicer" target="_blank" >My Linkedin Profile</a></h3>
