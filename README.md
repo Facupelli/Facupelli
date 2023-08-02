@@ -7,9 +7,13 @@ Currently I am working as Backend Developer at Fidooo Engineering
 🌱 Skills and techs I worked with:
 
 JavaScript | Typescript 
+<br>
 Next.js | React | Redux 
+<br>
 Nuxt | Vue
+<br>
 Node.js | Express | Nest.js
+<br>
 Prisma | PostgreSQL | MongoDB | Firebase
 
 🟢⚪🟢
