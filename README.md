@@ -2,11 +2,17 @@
 
 # Full Stack Developer
 
-- I want to understand why things were designed this way, for whom, what works well enough, and what needs to be fixed.
+Currently I am working as Backend Developer at Fidooo Engineering
 
-🌱 Skills:
+🌱 Skills and techs I worked with:
 
-JavaScript | Typescript | Next.js | React | Redux | Node.js | Express | Prisma | PostgreSQL | MongoDB
+JavaScript | Typescript 
+Next.js | React | Redux 
+Nuxt | Vue
+Node.js | Express | Nest.js
+Prisma | PostgreSQL | MongoDB | Firebase
+
+🟢⚪🟢
 
 # 📫 Connect with Me:
 
