@@ -10,11 +10,11 @@ JavaScript | Typescript
 <br>
 Next.js | React | Redux 
 <br>
-Nuxt | Vue
-<br>
 Node.js | Express | Nest.js
 <br>
 Prisma | PostgreSQL | MongoDB | Firebase
+<br>
+Vercel | Google Cloud Platform | Cloudflare
 
 🟢⚪🟢
 
