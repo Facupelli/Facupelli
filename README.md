@@ -1,27 +1,19 @@
-### Hi there 👋, I'm Facundo!
+# Hi, I'm Facundo Pellicer
 
-# Full Stack Developer
+Full Stack Developer focused on building pragmatic web products, AI-powered workflows, and business automation systems.
 
-Currently I am working as Backend Developer at Fidooo Engineering
+I work mainly with TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL, and cloud platforms like Vercel, Cloudflare, and Google Cloud.
 
-🌱 Skills and techs I worked with:
+Currently building SaaS and conversational automation tools at Fidooo Engineering, with experience across AI integrations, WhatsApp Business workflows, complex frontend interfaces, backend architecture, and product-focused systems.
 
-JavaScript | Typescript 
-<br>
-Next.js | React | Redux 
-<br>
-Node.js | Express | Nest.js
-<br>
-Prisma | PostgreSQL | MongoDB | Firebase
-<br>
-Vercel | Google Cloud Platform | Cloudflare
+## Featured work
 
-🟢⚪🟢
+- Equipment Rental SaaS — rental management platform with PostgreSQL, Prisma, NestJS, TanStack Start, multi-tenancy, availability logic, and modular architecture.
+- The Pit of Despair — playful job application tracker built with React, TypeScript, Vite, shadcn/ui, and Tailwind.
+- Divide Expenses Bot — AI-assisted Telegram bot for tracking and splitting group expenses from natural-language messages.
 
-# 📫 Connect with Me:
+## Links
 
-    Email: facundopellicer4@gmail.com
-    Linkedin: Facundo Pellicer
-
-<h3><a href="https://facupelli.vercel.app" target="_blank" >My Portfolio</a></h3>
-<h3><a href="https://linkedin.com/in/facundopellicer" target="_blank" >My Linkedin Profile</a></h3>
+Portfolio: https://facupelli.vercel.app  
+LinkedIn: https://www.linkedin.com/in/facundopellicer  
+Email: facundopellicer4@gmail.com
